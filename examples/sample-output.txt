@@ -1,0 +1,5 @@
+PASS  body                          #111111 on #ffffff  18.88:1  AA PASS  AAA PASS
+PASS  a                             #333333 on #ffffff  12.63:1  AA PASS  AAA PASS
+PASS  .muted                        #767676 on #ffffff   4.54:1  AA PASS  AAA FAIL
+FAIL  .faint                        #777777 on #ffffff   4.48:1  AA FAIL  AAA FAIL
+4 checked, 3 passed AA, 1 failed AA

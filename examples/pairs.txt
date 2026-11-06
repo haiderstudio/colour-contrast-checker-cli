@@ -1,0 +1,7 @@
+# Sample hex pairs for colour-contrast-checker-cli.
+# One pair per line: foreground background [label]
+#000000 #ffffff black on white
+#333333 #ffffff dark grey on white
+#767676 #ffffff grey text
+#777777 #ffffff faint grey text
+#ffffff #ffffff white on white

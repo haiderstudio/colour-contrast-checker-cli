@@ -1,0 +1,32 @@
+/* Sample CSS for colour-contrast-checker-cli.
+   Four rules with both colours, one rule with no background,
+   one rule with a named colour (skipped, not guessed). */
+
+body {
+  color: #111111;
+  background-color: #ffffff;
+}
+
+a {
+  color: #333333;
+  background-color: #ffffff;
+}
+
+.muted {
+  color: #767676;
+  background-color: #ffffff;
+}
+
+.faint {
+  color: #777777;
+  background-color: #ffffff;
+}
+
+.no-bg {
+  color: #111111;
+}
+
+.named {
+  color: red;
+  background-color: #ffffff;
+}
